@@ -1,8 +1,5 @@
 #include "UserInformation.cpp"
-#include "Menu.h"
 #include "Menu.cpp"
-#include "InvestmentCalculator.h"
-#include "InvestmentCalculator.cpp"
 #include <windows.h>
 #include <iostream>
 #include <string>
