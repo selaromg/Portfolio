@@ -1,8 +1,6 @@
 #include "Menu.h"
 #include "InvestmentCalculator.h"
-#include <iomanip> // setprecision
-#include <iostream>
-#include <string>
+
 using namespace std;
 
 // UserInformation set/get function definitions
