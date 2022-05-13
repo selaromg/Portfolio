@@ -1,1 +1,3 @@
-# Portfolio
+# Gissel (Gigi) Morales
+
+A life long learner with a passion for continuous improvement. I am currently attending Southern New Hampshire University where I am working towards a Bachelor's in Computer Science with focuses in both software engineering and data analysis. Tinkering with the Arduino is also a hobby of mine that helps hone different skills including electrical and even mechanical engineering (an interest I have had since taking robotics in high school). My strengths include teamwork, reliability, and my ability to both learn and apply what has been learned. I am looking to gain experience in what would be a new field for me, coming from a history of pharmaceuticals as a pharmacy technician for the past 9 or so years.
